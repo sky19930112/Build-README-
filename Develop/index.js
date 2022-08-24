@@ -71,7 +71,7 @@ async function initialize() {
     console.log("Your responses: ", data);
     const markdown = generateMarkdown(data);
     console.log(markdown);
-    await fileResult('ExampleREADME.md', markdown);
+    await fileResult('sampleREADME.md', markdown);
 }
 
 // Function call to initialize app
