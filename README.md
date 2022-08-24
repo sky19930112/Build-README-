@@ -11,3 +11,6 @@
 
 ## in generateMarkdown.js
 * I made a fuction to input the user-answer as data and import into README file that is being created
+
+## video walkthrough
+https://drive.google.com/file/d/1GnTqlBI-seY2OawsW2dARox9TEAkF-So/view
